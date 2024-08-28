@@ -1,0 +1,14 @@
+#ignore all .dev files
+*.dev
+
+#ignore all .win files
+*.win
+
+# ignore all .h.gch files
+*.h.gch
+
+#ignore all .o files
+*.o
+
+#ignore all .layout files
+*.layout
